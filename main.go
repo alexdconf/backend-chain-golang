@@ -2,8 +2,8 @@ package main
 
 import (
     "fmt"
-    "github.com/alexdconf/IOchain/blockchain"
-    "github.com/alexdconf/IOchain/wallet"
+    "github.com/alexdconf/backend-chain-golang/blockchain"
+    "github.com/alexdconf/backend-chain-golang/wallet"
 )
 
 func main() {
