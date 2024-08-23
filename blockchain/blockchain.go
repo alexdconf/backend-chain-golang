@@ -4,7 +4,7 @@ import (
     "crypto/sha256"
     "encoding/hex"
     "fmt"
-    "github.com/alexdconf/IOchain/wallet"
+    "github.com/alexdconf/backend-chain-golang/wallet"
 )
 
 type Transaction struct {

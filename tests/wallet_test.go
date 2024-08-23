@@ -2,7 +2,7 @@ package tests
 
 import (
     "testing"
-    "github.com/alexdconf/IOchain/wallet"
+    "github.com/alexdconf/backend-chain-golang/wallet"
 )
 
 func TestWalletCreation(t *testing.T) {

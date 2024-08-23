@@ -2,7 +2,7 @@ package tests
 
 import (
     "testing"
-    "github.com/alexdconf/IOchain/blockchain"
+    "github.com/alexdconf/backend-chain-golang/blockchain"
 )
 
 func TestMining(t *testing.T) {

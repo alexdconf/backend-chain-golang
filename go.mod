@@ -1,4 +1,4 @@
-module github.com/alexdconf/IOchain
+module github.com/alexdconf/backend-chain-golang
 
 go 1.22.6
 
